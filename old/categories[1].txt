@@ -1,0 +1,98 @@
+(lp1
+(I1
+S'Film & Animation'
+tp2
+a(I2
+S'Autos & Vehicles'
+tp3
+a(I10
+S'Music'
+tp4
+a(I15
+S'Pets & Animals'
+tp5
+a(I17
+S'Sports'
+tp6
+a(I18
+S'Short Movies'
+tp7
+a(I19
+S'Travel & Events'
+tp8
+a(I20
+S'Gaming'
+tp9
+a(I21
+S'Videoblogging'
+tp10
+a(I22
+S'People & Blogs'
+tp11
+a(I23
+S'Comedy'
+tp12
+a(I24
+S'Entertainment'
+tp13
+a(I25
+S'News & Politics'
+tp14
+a(I26
+S'Howto & Style'
+tp15
+a(I27
+S'Education'
+tp16
+a(I28
+S'Science & Technology'
+tp17
+a(I29
+S'Nonprofits & Activism'
+tp18
+a(I30
+S'Movies'
+tp19
+a(I31
+S'Anime/Animation'
+tp20
+a(I32
+S'Action/Adventure'
+tp21
+a(I33
+S'Classics'
+tp22
+a(I34
+S'Comedy'
+tp23
+a(I35
+S'Documentary'
+tp24
+a(I36
+S'Drama'
+tp25
+a(I37
+S'Family'
+tp26
+a(I38
+S'Foreign'
+tp27
+a(I39
+S'Horror'
+tp28
+a(I40
+S'Sci-Fi/Fantasy'
+tp29
+a(I41
+S'Thriller'
+tp30
+a(I42
+S'Shorts'
+tp31
+a(I43
+S'Shows'
+tp32
+a(I44
+S'Trailers'
+tp33
+a.
